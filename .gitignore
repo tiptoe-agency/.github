@@ -1,0 +1,6 @@
+# This folder is the local copy of the public repository tiptoe-agency/.github.
+# Only profile/ (the organization's public profile page) is published; everything else stays local.
+*
+!.gitignore
+!profile/
+!profile/**
